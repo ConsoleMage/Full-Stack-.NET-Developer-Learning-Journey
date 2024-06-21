@@ -16,6 +16,7 @@
         private const int chipsPrice = 20;
         private const int juicePrice = 40;
         private const int biscuitPrice = 15;
+        
         public void ShowProductPrice(string productName)
         {
             switch (productName)
