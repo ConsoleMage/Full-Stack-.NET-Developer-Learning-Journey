@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\3. StacksAndQueue\bin\Debug\net8.0\3. StacksAndQueue.exe
+C:\Users\Admin\Desktop\3. StacksAndQueue\bin\Debug\net8.0\3. StacksAndQueue.deps.json
+C:\Users\Admin\Desktop\3. StacksAndQueue\bin\Debug\net8.0\3. StacksAndQueue.runtimeconfig.json
+C:\Users\Admin\Desktop\3. StacksAndQueue\bin\Debug\net8.0\3. StacksAndQueue.dll
+C:\Users\Admin\Desktop\3. StacksAndQueue\bin\Debug\net8.0\3. StacksAndQueue.pdb
+C:\Users\Admin\Desktop\3. StacksAndQueue\obj\Debug\net8.0\3. StacksAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\3. StacksAndQueue\obj\Debug\net8.0\3. StacksAndQueue.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\3. StacksAndQueue\obj\Debug\net8.0\3. StacksAndQueue.AssemblyInfo.cs
+C:\Users\Admin\Desktop\3. StacksAndQueue\obj\Debug\net8.0\3. StacksAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\3. StacksAndQueue\obj\Debug\net8.0\3. StacksAndQueue.dll
+C:\Users\Admin\Desktop\3. StacksAndQueue\obj\Debug\net8.0\refint\3. StacksAndQueue.dll
+C:\Users\Admin\Desktop\3. StacksAndQueue\obj\Debug\net8.0\3. StacksAndQueue.pdb
+C:\Users\Admin\Desktop\3. StacksAndQueue\obj\Debug\net8.0\3. StacksAndQueue.genruntimeconfig.cache
+C:\Users\Admin\Desktop\3. StacksAndQueue\obj\Debug\net8.0\ref\3. StacksAndQueue.dll
