@@ -6,11 +6,11 @@ I created this repository to track my own learning and to explore GitHub's many 
 
 ### Exercise 1
 
-Learn how to use classes, implement methods with parameters and return types.
+Learn how to use classes, methods and return types.
 
 ### Exercise 2
 
-Learn how to handle exceptions and also how to build new exception handlers.
+Learn how to use pre-defined and custom exceptions.
 
 ### Exercise 3
 
