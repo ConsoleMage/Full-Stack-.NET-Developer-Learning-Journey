@@ -13,3 +13,5 @@ Learn how to use classes, implement methods with parameters and return types.
 Learn how to handle exceptions and also how to build new exception handlers.
 
 ### Exercise 3
+
+Learn how to use collections, stacks and queues.
